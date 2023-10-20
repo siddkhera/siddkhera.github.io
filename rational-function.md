@@ -1,0 +1,1 @@
+A Rational function is a function $f(x)= \frac{P(x)}{Q(x)}$, where $P$ and $Q$ are polynomials.
